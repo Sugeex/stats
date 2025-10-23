@@ -22,7 +22,7 @@ const TotalBalance = () => {
             </div>
           </div>
           <div className="flex flex-col font-medium">
-            <span className="text-[20px] text-[#a8a9ad]">178,098</span>
+            <span className="text-[20px] text-[#a8a9ad]">178,25</span>
             <span className="text-red-600">Offline</span>
           </div>
         </li>
@@ -41,7 +41,7 @@ const TotalBalance = () => {
             </div>
           </div>
           <div className="flex flex-col font-medium">
-            <span className="text-[20px] text-[#a8a9ad]">178,098</span>
+            <span className="text-[20px] text-[#a8a9ad]">152,74</span>
             <span className="text-green-600">Online</span>
           </div>
         
